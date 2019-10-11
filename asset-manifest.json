@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ilyacheredov1/Blog-on-React/static/css/main.ea205bfa.chunk.css",
+    "main.js": "/Ilyacheredov1/Blog-on-React/static/js/main.de74ac4e.chunk.js",
+    "main.js.map": "/Ilyacheredov1/Blog-on-React/static/js/main.de74ac4e.chunk.js.map",
+    "runtime-main.js": "/Ilyacheredov1/Blog-on-React/static/js/runtime-main.fee42f3c.js",
+    "runtime-main.js.map": "/Ilyacheredov1/Blog-on-React/static/js/runtime-main.fee42f3c.js.map",
+    "static/css/2.0624914a.chunk.css": "/Ilyacheredov1/Blog-on-React/static/css/2.0624914a.chunk.css",
+    "static/js/2.6e1aeaa2.chunk.js": "/Ilyacheredov1/Blog-on-React/static/js/2.6e1aeaa2.chunk.js",
+    "static/js/2.6e1aeaa2.chunk.js.map": "/Ilyacheredov1/Blog-on-React/static/js/2.6e1aeaa2.chunk.js.map",
+    "index.html": "/Ilyacheredov1/Blog-on-React/index.html",
+    "precache-manifest.aa3e0af4415e1865d56d9c232eecd1b8.js": "/Ilyacheredov1/Blog-on-React/precache-manifest.aa3e0af4415e1865d56d9c232eecd1b8.js",
+    "service-worker.js": "/Ilyacheredov1/Blog-on-React/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Ilyacheredov1/Blog-on-React/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.ea205bfa.chunk.css.map": "/Ilyacheredov1/Blog-on-React/static/css/main.ea205bfa.chunk.css.map",
+    "static/media/media.sass": "/Ilyacheredov1/Blog-on-React/static/media/background1.0ed0afbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee42f3c.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.6e1aeaa2.chunk.js",
+    "static/css/main.ea205bfa.chunk.css",
+    "static/js/main.de74ac4e.chunk.js"
+  ]
+}
